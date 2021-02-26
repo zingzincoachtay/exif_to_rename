@@ -1,0 +1,9 @@
+
+find /media/pi/JUKE/Pictures/ -type f -name "* copy*"
+
+find /media/pi/JUKE/Pictures/ -type f | grep -P " \(\d+\)"
+
+find /media/pi/JUKE/Pictures/ -type f | grep -P " \d+\.\w{3}"
+
+find /media/pi/JUKE/Pictures/ -type f | grep -P "\-\d+\.\w{3}"
+

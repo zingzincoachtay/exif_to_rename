@@ -1,0 +1,721 @@
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.11.47 IMG_0502.JPG.~4~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.11.47 IMG_0502.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-05 19.27.11 IMG_0510.JPG.~3~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-059.27.11 IMG_0510.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-05 19.27.11 IMG_0510.JPG.~4~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-059.27.11 IMG_0510.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.33.28 IMG_0504.JPG.~3~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.33.28 IMG_0504.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.11.47 IMG_0502.JPG.~3~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.11.47 IMG_0502.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.33.28 IMG_0504.JPG.~4~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.33.28 IMG_0504.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.32.49 IMG_0503.JPG.~3~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.32.49 IMG_0503.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-04 20.32.49 IMG_0503.JPG.~4~" "/media/pi/JUKE/Pictures/201407-Missouri/2014-07-040.32.49 IMG_0503.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.33.11 IMG_1045.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.33.11 IMG_1045.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.05.32 IMG_0811.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.05.32 IMG_0811.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.05.42 IMG_0812.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.05.42 IMG_0812.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 11.57.39 IMG_0948.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-271.57.39 IMG_0948.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.19.29 IMG_0849.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.19.29 IMG_0849.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.22.08 IMG_0853.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.22.08 IMG_0853.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.43 IMG_0901.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.43 IMG_0901.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-25 19.14.57 IMG_0772.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-259.14.57 IMG_0772.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.43 IMG_0901.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.43 IMG_0901.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.07.53 IMG_0833.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.07.53 IMG_0833.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.40.55 IMG_0794.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.40.55 IMG_0794.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 11.57.39 IMG_0948.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-271.57.39 IMG_0948.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.30.23 IMG_1037.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.30.23 IMG_1037.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.52.49 IMG_0989.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.52.49 IMG_0989.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.01 IMG_0842.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.01 IMG_0842.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.51.16 IMG_0986.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.51.16 IMG_0986.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.54.37 IMG_0904.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.54.37 IMG_0904.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.31.39 IMG_1040.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.31.39 IMG_1040.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.01 IMG_0899.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.01 IMG_0899.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.05.42 IMG_0812.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.05.42 IMG_0812.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-25 19.14.57 IMG_0772.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-259.14.57 IMG_0772.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-25 19.15.46 IMG_0773.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-259.15.46 IMG_0773.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.07.56 IMG_0814.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.07.56 IMG_0814.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.32.56 IMG_1043.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.32.56 IMG_1043.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.14.17 IMG_0839.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.14.17 IMG_0839.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.31.35 IMG_1039.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.31.35 IMG_1039.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.38.49 IMG_0792.JPG.~1~.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.38.49 IMG_0792.JPG.~1~"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.13.51 IMG_0837.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.13.51 IMG_0837.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.51.07 IMG_0985.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.51.07 IMG_0985.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.40 IMG_0900.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.40 IMG_0900.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.52.46 IMG_0988.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.52.46 IMG_0988.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.13.54 IMG_0838.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.13.54 IMG_0838.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.40.55 IMG_0794.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.40.55 IMG_0794.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.51.16 IMG_0986.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.51.16 IMG_0986.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.40 IMG_0900.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.40 IMG_0900.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.26.56 IMG_1036.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.26.56 IMG_1036.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.13.51 IMG_0837.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.13.51 IMG_0837.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 11.59.15 IMG_0949.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-271.59.15 IMG_0949.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.34.04 IMG_1047.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.34.04 IMG_1047.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 08.57.09 IMG_0779.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-268.57.09 IMG_0779.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.33.11 IMG_1045.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.33.11 IMG_1045.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 08.57.09 IMG_0779.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-268.57.09 IMG_0779.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.16.17 IMG_0846.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.16.17 IMG_0846.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.08.35 IMG_0816.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.08.35 IMG_0816.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.43.21 IMG_0798.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.43.21 IMG_0798.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.19.29 IMG_0849.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.19.29 IMG_0849.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 13.47.43 IMG_1010.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-273.47.43 IMG_1010.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.51.07 IMG_0985.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.51.07 IMG_0985.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.32.56 IMG_1043.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.32.56 IMG_1043.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.07.56 IMG_0814.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.07.56 IMG_0814.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.55.12 IMG_0995.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.55.12 IMG_0995.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.16.17 IMG_0846.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.16.17 IMG_0846.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.30.23 IMG_1037.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.30.23 IMG_1037.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.08.35 IMG_0816.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.08.35 IMG_0816.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.53.01 IMG_0899.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.53.01 IMG_0899.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.50.59 IMG_0984.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.50.59 IMG_0984.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.38.49 IMG_0792.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.38.49 IMG_0792.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.39.00 IMG_0793.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.39.00 IMG_0793.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.20.30 IMG_0818.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.20.30 IMG_0818.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.06 IMG_0843.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.06 IMG_0843.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.34.19 IMG_1048.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.34.19 IMG_1048.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.05.32 IMG_0811.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.05.32 IMG_0811.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.31.35 IMG_1039.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.31.35 IMG_1039.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.20.21 IMG_0817.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.20.21 IMG_0817.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.34.04 IMG_1047.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.34.04 IMG_1047.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.14.17 IMG_0839.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.14.17 IMG_0839.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.52.46 IMG_0988.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.52.46 IMG_0988.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 11.59.15 IMG_0949.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-271.59.15 IMG_0949.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.24.26 IMG_1035.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.24.26 IMG_1035.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.07.53 IMG_0833.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.07.53 IMG_0833.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.52.49 IMG_0989.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.52.49 IMG_0989.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.30 IMG_0844.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.30 IMG_0844.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.13.54 IMG_0838.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.13.54 IMG_0838.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 13.47.43 IMG_1010.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-273.47.43 IMG_1010.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.19.04 IMG_0848.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.19.04 IMG_0848.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.14.20 IMG_0840.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.14.20 IMG_0840.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.26.56 IMG_1036.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.26.56 IMG_1036.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.18.37 IMG_0847.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.18.37 IMG_0847.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.55.12 IMG_0995.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.55.12 IMG_0995.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.06 IMG_0843.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.06 IMG_0843.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.07.50 IMG_0832.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.07.50 IMG_0832.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-25 19.15.46 IMG_0773.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-259.15.46 IMG_0773.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.08.26 IMG_0815.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.08.26 IMG_0815.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 10.54.37 IMG_0904.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-270.54.37 IMG_0904.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.07.50 IMG_0832.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.07.50 IMG_0832.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.55.04 IMG_0994.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.55.04 IMG_0994.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.20.30 IMG_0818.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.20.30 IMG_0818.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.16.10 IMG_0845.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.16.10 IMG_0845.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.43.21 IMG_0798.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.43.21 IMG_0798.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.24.26 IMG_1035.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.24.26 IMG_1035.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.14.20 IMG_0840.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.14.20 IMG_0840.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.50.59 IMG_0984.JPG.~2~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.50.59 IMG_0984.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.22.08 IMG_0853.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.22.08 IMG_0853.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.08.26 IMG_0815.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.08.26 IMG_0815.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.18.37 IMG_0847.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.18.37 IMG_0847.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.34.19 IMG_1048.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.34.19 IMG_1048.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 12.20.21 IMG_0817.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-262.20.21 IMG_0817.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 12.55.04 IMG_0994.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-272.55.04 IMG_0994.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.30 IMG_0844.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.30 IMG_0844.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.19.04 IMG_0848.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.19.04 IMG_0848.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.16.10 IMG_0845.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.16.10 IMG_0845.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-27 16.31.39 IMG_1040.JPG.~1~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-276.31.39 IMG_1040.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 11.39.00 IMG_0793.JPG.~4~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-261.39.00 IMG_0793.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-26 14.15.01 IMG_0842.JPG.~3~" "/media/pi/JUKE/Pictures/201412-Smoky/2014-12-264.15.01 IMG_0842.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201411-Arkansas/2014-11-29 11.59.27 IMG_0744.JPG.~4~" "/media/pi/JUKE/Pictures/201411-Arkansas/2014-11-291.59.27 IMG_0744.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201411-Arkansas/2014-11-29 11.59.27 IMG_0744.JPG.~3~" "/media/pi/JUKE/Pictures/201411-Arkansas/2014-11-291.59.27 IMG_0744.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Family/2013-01-01 10.26.07 IMG_0004.JPG.~2~" "/media/pi/JUKE/Pictures/Family/2013-01-010.26.07 IMG_0004.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Family/2013-01-01 10.26.07 IMG_0004.JPG.~1~" "/media/pi/JUKE/Pictures/Family/2013-01-010.26.07 IMG_0004.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-09-10 22.21.52 IMG_1592.JPG.~1~" "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-09-102.21.52 IMG_1592.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-04-25 13.47.44 IMG_1272.JPG.~1~" "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-04-253.47.44 IMG_1272.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Volleyball-Coach/Girls Inc./2014-07-09 18.58.04 IMG_0512.JPG.~3~" "/media/pi/JUKE/Pictures/Volleyball-Coach/Girls Inc./2014-07-098.58.04 IMG_0512.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Volleyball-Coach/Girls Inc./2014-07-09 18.58.10 IMG_0513.JPG.~3~" "/media/pi/JUKE/Pictures/Volleyball-Coach/Girls Inc./2014-07-098.58.10 IMG_0513.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-09-10 22.28.23 IMG_1599.JPG.~1~" "/media/pi/JUKE/Pictures/Volleyball-Coach/2015-09-102.28.23 IMG_1599.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201707-NYC/2017-07-04 21.44.58 IMG_0510.JPG.~1~" "/media/pi/JUKE/Pictures/201707-NYC/2017-07-041.44.58 IMG_0510.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201707-NYC/2017-07-04 21.45.00 IMG_0511.JPG.~1~" "/media/pi/JUKE/Pictures/201707-NYC/2017-07-041.45.00 IMG_0511.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.08.26 IMG_0327.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.08.26 IMG_0327.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.43.30 IMG_0371.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.43.30 IMG_0371.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.40.57 IMG_0454.JPG.~2~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.40.57 IMG_0454.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.49.55 IMG_0354.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.49.55 IMG_0354.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.46.50 IMG_0373.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.46.50 IMG_0373.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 15.12.20 IMG_0432.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-255.12.20 IMG_0432.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.33.44 IMG_0343.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.33.44 IMG_0343.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.08.39 IMG_0329.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.08.39 IMG_0329.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.53.40 IMG_0360.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.53.40 IMG_0360.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.03.57 IMG_0362.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.03.57 IMG_0362.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.42.12 IMG_0346.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.42.12 IMG_0346.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.40.49 IMG_0344.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.40.49 IMG_0344.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.41.43 IMG_0370.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.41.43 IMG_0370.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.38.20 IMG_0449.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.38.20 IMG_0449.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.08.39 IMG_0329.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.08.39 IMG_0329.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.16.20 IMG_0337.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.16.20 IMG_0337.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 14.39.00 IMG_0420.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-254.39.00 IMG_0420.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.40.57 IMG_0454.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.40.57 IMG_0454.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.16.42 IMG_0338.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.16.42 IMG_0338.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.47.11 IMG_0374.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.47.11 IMG_0374.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.16.42 IMG_0338.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.16.42 IMG_0338.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 15.13.36 IMG_0433.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-255.13.36 IMG_0433.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 14.39.00 IMG_0420.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-254.39.00 IMG_0420.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.40.31 IMG_0453.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.40.31 IMG_0453.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 15.26.26 IMG_0434.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-255.26.26 IMG_0434.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.35.06 IMG_0443.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.35.06 IMG_0443.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 15.57.57 IMG_0436.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-255.57.57 IMG_0436.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.35.06 IMG_0443.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.35.06 IMG_0443.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 15.12.20 IMG_0432.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-255.12.20 IMG_0432.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.03.57 IMG_0362.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.03.57 IMG_0362.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.49.04 IMG_0353.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.49.04 IMG_0353.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 17.37.25 IMG_0462.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-257.37.25 IMG_0462.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.38.05 IMG_0446.JPG.~1~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.38.05 IMG_0446.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.49.55 IMG_0354.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.49.55 IMG_0354.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 10.43.30 IMG_0371.JPG.~4~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-250.43.30 IMG_0371.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 09.08.26 IMG_0327.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-259.08.26 IMG_0327.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-25 16.38.20 IMG_0449.JPG.~3~" "/media/pi/JUKE/Pictures/201405-Tennessee/2014-05-256.38.20 IMG_0449.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.45.04 IMG_0381.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.45.04 IMG_0381.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.46.19 IMG_0382.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.46.19 IMG_0382.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.18.32 IMG_0376.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.18.32 IMG_0376.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.47.03 IMG_0383.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.47.03 IMG_0383.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2018-12-19 19.39.10 IMG_3564.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2018-12-199.39.10 IMG_3564.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.20.38 IMG_0377.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.20.38 IMG_0377.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.44.59 IMG_0379.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.44.59 IMG_0379.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/GFI/2017-06-13 19.45.01 IMG_0380.JPG.~1~" "/media/pi/JUKE/Pictures/GFI/2017-06-139.45.01 IMG_0380.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201207-Cincy-Buffalo-Rochester/2012-07-27 15.17.23 0727121517.JPG.~3~" "/media/pi/JUKE/Pictures/201207-Cincy-Buffalo-Rochester/2012-07-27 15.17.23727121517.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-13 12.34.06 IMG_3399.JPG.~1~" "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-132.34.06 IMG_3399.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-13 12.34.12 IMG_3400.JPG.~1~" "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-132.34.12 IMG_3400.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-19 12.58.19 IMG_3516.JPG.~1~" "/media/pi/JUKE/Pictures/201810-Michigan-Canada/2018-10-192.58.19 IMG_3516.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-20 20.23.37 IMG_0735.JPG.~1~" "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-200.23.37 IMG_0735.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-20 20.24.57 IMG_0737.JPG.~1~" "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-200.24.57 IMG_0737.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-20 20.24.50 IMG_0736.JPG.~1~" "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-200.24.50 IMG_0736.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-20 20.22.54 IMG_0733.JPG.~1~" "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-200.22.54 IMG_0733.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-20 20.23.13 IMG_0734.JPG.~1~" "/media/pi/JUKE/Pictures/201708-Shakamak/2017-08-200.23.13 IMG_0734.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.50.34 IMG_6021.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.50.34 IMG_6021.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.46.41 IMG_6006.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.46.41 IMG_6006.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.48.32 IMG_6013.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.48.32 IMG_6013.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.49.15 IMG_0015.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.49.15 IMG_0015.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.50.14 IMG_6018.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.50.14 IMG_6018.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-12-10 19.33.49 IMG_0048.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-12-109.33.49 IMG_0048.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.49.20 IMG_0016.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.49.20 IMG_0016.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.50.47 IMG_6022.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.50.47 IMG_6022.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-12-10 19.33.30 IMG_0046.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-12-109.33.30 IMG_0046.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.47.56 IMG_0009.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.47.56 IMG_0009.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.47.36 IMG_6010.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.47.36 IMG_6010.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.50.15 IMG_6019.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.50.15 IMG_6019.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.48.03 IMG_0011.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.48.03 IMG_0011.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.49.12 IMG_3037.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.49.12 IMG_3037.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.47.02 IMG_6009.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.47.02 IMG_6009.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.47.58 IMG_0010.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.47.58 IMG_0010.JPG"
+/media/pi/JUKE/Pictures/Dog/IMG_0082.JPG.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2016-10-30 14.48.19 IMG_0012.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2016-10-304.48.19 IMG_0012.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.50.33 IMG_6020.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.50.33 IMG_6020.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Dog/2018-06-22 17.48.04 IMG_6012.JPG.~1~" "/media/pi/JUKE/Pictures/Dog/2018-06-227.48.04 IMG_6012.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.26 IMG_1340.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.26 IMG_1340.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.06.48 IMG_1299.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.06.48 IMG_1299.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.41.55 IMG_1326.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.41.55 IMG_1326.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.44.59 IMG_1315.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.44.59 IMG_1315.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.47.39 IMG_1374.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.47.39 IMG_1374.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.40.33 IMG_1351.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.40.33 IMG_1351.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.54 IMG_1331.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.54 IMG_1331.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.35.56 IMG_1372.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.35.56 IMG_1372.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.23.54 IMG_1377.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.23.54 IMG_1377.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.39.53 IMG_1360.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.39.53 IMG_1360.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.45.04 IMG_1389.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.45.04 IMG_1389.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.27.38 IMG_1355.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.27.38 IMG_1355.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.00 IMG_1338.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.00 IMG_1338.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.16.12 IMG_1287.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.16.12 IMG_1287.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.57.26 IMG_1335.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.57.26 IMG_1335.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.03.04 IMG_1298.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.03.04 IMG_1298.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.41 IMG_1322.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.41 IMG_1322.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.41.55 IMG_1326.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.41.55 IMG_1326.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 09.19.54 IMG_1380.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-249.19.54 IMG_1380.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.28.55 IMG_1290.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.28.55 IMG_1290.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.41 IMG_1322.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.41 IMG_1322.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.51 IMG_1369.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.51 IMG_1369.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.01.54 IMG_1286.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.01.54 IMG_1286.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.29.25 IMG_1292.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.29.25 IMG_1292.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.18.15 IMG_1349.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.18.15 IMG_1349.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.47 IMG_1368.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.47 IMG_1368.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-22 19.34.40 IMG_1282.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-229.34.40 IMG_1282.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.37.41 IMG_1311.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.37.41 IMG_1311.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.14.42 IMG_1300.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.14.42 IMG_1300.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.51 IMG_1369.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.51 IMG_1369.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.08.42 IMG_1347.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.08.42 IMG_1347.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.54 IMG_1331.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.54 IMG_1331.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.20.05 IMG_1350.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.20.05 IMG_1350.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.57.26 IMG_1335.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.57.26 IMG_1335.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.27.38 IMG_1355.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.27.38 IMG_1355.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.55.47 IMG_1285.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.55.47 IMG_1285.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.40.33 IMG_1351.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.40.33 IMG_1351.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.37.46 IMG_1312.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.37.46 IMG_1312.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.44.39 IMG_1329.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.44.39 IMG_1329.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.35.06 IMG_1387.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.35.06 IMG_1387.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.51.57 IMG_1283.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.51.57 IMG_1283.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.37.41 IMG_1311.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.37.41 IMG_1311.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.18.28 IMG_1289.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.18.28 IMG_1289.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.56.58 IMG_1343.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.56.58 IMG_1343.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.17.42 IMG_1288.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.17.42 IMG_1288.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.14.42 IMG_1300.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.14.42 IMG_1300.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.46.34 IMG_1297.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.46.34 IMG_1297.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.53 IMG_1370.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.53 IMG_1370.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.35.06 IMG_1387.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.35.06 IMG_1387.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.51.57 IMG_1283.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.51.57 IMG_1283.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.08.39 IMG_1336.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.08.39 IMG_1336.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.44.06 IMG_1314.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.44.06 IMG_1314.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.06 IMG_1339.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.06 IMG_1339.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.59.33 IMG_1344.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.59.33 IMG_1344.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.43.17 IMG_1313.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.43.17 IMG_1313.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.06 IMG_1339.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.06 IMG_1339.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.50.38 IMG_1390.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.50.38 IMG_1390.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.18 IMG_1381.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.18 IMG_1381.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.44.12 IMG_1328.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.44.12 IMG_1328.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.35.02 IMG_1309.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.35.02 IMG_1309.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.01.54 IMG_1286.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.01.54 IMG_1286.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.46.54 IMG_1352.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.46.54 IMG_1352.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.09 IMG_1330.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.09 IMG_1330.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.35.01 IMG_1371.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.35.01 IMG_1371.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.08.42 IMG_1347.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.08.42 IMG_1347.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.22.15 IMG_1396.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.22.15 IMG_1396.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.47 IMG_1368.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.47 IMG_1368.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.56.58 IMG_1343.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.56.58 IMG_1343.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.28 IMG_1383.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.28 IMG_1383.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.17.42 IMG_1288.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.17.42 IMG_1288.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.55.38 IMG_1284.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.55.38 IMG_1284.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.17.53 IMG_1302.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.17.53 IMG_1302.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.35.56 IMG_1372.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.35.56 IMG_1372.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.49.44 IMG_1319.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.49.44 IMG_1319.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.46.34 IMG_1317.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.46.34 IMG_1317.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.47.17 IMG_1366.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.47.17 IMG_1366.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.46.29 IMG_1316.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.46.29 IMG_1316.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.16.12 IMG_1287.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.16.12 IMG_1287.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.48.09 IMG_1333.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.48.09 IMG_1333.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.54.23 IMG_1342.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.54.23 IMG_1342.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.45.04 IMG_1389.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.45.04 IMG_1389.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 09.19.54 IMG_1380.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-249.19.54 IMG_1380.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.08.39 IMG_1336.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.08.39 IMG_1336.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.32.16 IMG_1304.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.32.16 IMG_1304.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.31.55 IMG_1378.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.31.55 IMG_1378.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.26 IMG_1340.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.26 IMG_1340.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.33.16 IMG_1307.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.33.16 IMG_1307.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.30.35 IMG_1341.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.30.35 IMG_1341.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.19.47 IMG_1324.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.19.47 IMG_1324.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.27.49 IMG_1356.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.27.49 IMG_1356.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.43.08 IMG_1388.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.43.08 IMG_1388.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.32.17 IMG_1305.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.32.17 IMG_1305.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.39.53 IMG_1360.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.39.53 IMG_1360.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.22.30 IMG_1397.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.22.30 IMG_1397.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.46.54 IMG_1352.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.46.54 IMG_1352.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.29.25 IMG_1292.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.29.25 IMG_1292.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.49.39 IMG_1318.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.49.39 IMG_1318.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.55.38 IMG_1284.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.55.38 IMG_1284.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.57 IMG_1332.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.57 IMG_1332.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.57.53 IMG_1370.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.57.53 IMG_1370.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.00.08 IMG_1346.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.00.08 IMG_1346.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.47.11 IMG_1365.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.47.11 IMG_1365.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.43.13 IMG_1364.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.43.13 IMG_1364.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.09 IMG_1330.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.09 IMG_1330.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.38.17 IMG_1373.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.38.17 IMG_1373.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.17.33 IMG_1301.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.17.33 IMG_1301.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.49.49 IMG_1376.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.49.49 IMG_1376.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.49.49 IMG_1376.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.49.49 IMG_1376.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.23.54 IMG_1377.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.23.54 IMG_1377.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.36 IMG_1321.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.36 IMG_1321.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.17.33 IMG_1301.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.17.33 IMG_1301.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.39.39 IMG_1379.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.39.39 IMG_1379.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.18.15 IMG_1349.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.18.15 IMG_1349.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.30.35 IMG_1341.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.30.35 IMG_1341.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.19.47 IMG_1324.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.19.47 IMG_1324.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.36 IMG_1321.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.36 IMG_1321.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.28.00 IMG_1357.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.28.00 IMG_1357.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.31.55 IMG_1378.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.31.55 IMG_1378.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.18.28 IMG_1289.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.18.28 IMG_1289.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.35.03 IMG_1386.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.35.03 IMG_1386.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.59.44 IMG_1345.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.59.44 IMG_1345.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.13.26 IMG_1337.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.13.26 IMG_1337.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.28 IMG_1320.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.28 IMG_1320.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.43.08 IMG_1388.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.43.08 IMG_1388.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.58.15 IMG_1353.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.58.15 IMG_1353.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.08.47 IMG_1348.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.08.47 IMG_1348.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.20.18 IMG_1303.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.20.18 IMG_1303.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.18 IMG_1381.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.18 IMG_1381.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.38.17 IMG_1373.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.38.17 IMG_1373.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.24.00 IMG_1385.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.24.00 IMG_1385.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.49.44 IMG_1319.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.49.44 IMG_1319.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.37.08 IMG_1295.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.37.08 IMG_1295.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 08.55.47 IMG_1285.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-238.55.47 IMG_1285.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.29.19 IMG_1291.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.29.19 IMG_1291.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.56.17 IMG_1334.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.56.17 IMG_1334.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 08.39.39 IMG_1379.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-248.39.39 IMG_1379.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.20.18 IMG_1303.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.20.18 IMG_1303.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.44.59 IMG_1315.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.44.59 IMG_1315.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.56.27 IMG_1367.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.56.27 IMG_1367.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.43.17 IMG_1313.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.43.17 IMG_1313.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.46.57 IMG_1332.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.46.57 IMG_1332.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.20.54 IMG_1394.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.20.54 IMG_1394.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.19.00 IMG_1338.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.19.00 IMG_1338.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.44.06 IMG_1314.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.44.06 IMG_1314.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.35.02 IMG_1309.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.35.02 IMG_1309.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.59.33 IMG_1344.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.59.33 IMG_1344.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.03.04 IMG_1298.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.03.04 IMG_1298.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.56 IMG_1384.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.56 IMG_1384.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.22.15 IMG_1396.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.22.15 IMG_1396.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.37.08 IMG_1295.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.37.08 IMG_1295.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.49.39 IMG_1318.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.49.39 IMG_1318.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 16.35.01 IMG_1371.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-236.35.01 IMG_1371.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.17.53 IMG_1302.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.17.53 IMG_1302.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.43.54 IMG_1327.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.43.54 IMG_1327.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.43.54 IMG_1327.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.43.54 IMG_1327.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.46.29 IMG_1316.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.46.29 IMG_1316.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.44.39 IMG_1329.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.44.39 IMG_1329.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.22.30 IMG_1397.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.22.30 IMG_1397.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.29.19 IMG_1291.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.29.19 IMG_1291.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.46.27 IMG_1296.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.46.27 IMG_1296.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.58.15 IMG_1353.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.58.15 IMG_1353.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.24.00 IMG_1385.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.24.00 IMG_1385.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.33.16 IMG_1307.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.33.16 IMG_1307.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.47.17 IMG_1366.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.47.17 IMG_1366.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.50.39 IMG_1391.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.50.39 IMG_1391.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.23 IMG_1382.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.23 IMG_1382.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.08.47 IMG_1348.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.08.47 IMG_1348.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.43.06 IMG_1363.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.43.06 IMG_1363.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.50.38 IMG_1390.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.50.38 IMG_1390.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.32.16 IMG_1304.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.32.16 IMG_1304.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 15.56.27 IMG_1367.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-235.56.27 IMG_1367.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.33.10 IMG_1306.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.33.10 IMG_1306.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.35.03 IMG_1386.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.35.03 IMG_1386.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.27.49 IMG_1356.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.27.49 IMG_1356.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.37.46 IMG_1312.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.37.46 IMG_1312.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.06.48 IMG_1299.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.06.48 IMG_1299.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.28.00 IMG_1357.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.28.00 IMG_1357.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.46.34 IMG_1317.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.46.34 IMG_1317.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.46.34 IMG_1297.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.46.34 IMG_1297.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.28.55 IMG_1290.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.28.55 IMG_1290.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.56.17 IMG_1334.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.56.17 IMG_1334.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.54.23 IMG_1342.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.54.23 IMG_1342.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.56 IMG_1384.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.56 IMG_1384.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.47.11 IMG_1365.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.47.11 IMG_1365.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.50.39 IMG_1391.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.50.39 IMG_1391.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.43.13 IMG_1364.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.43.13 IMG_1364.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.49.33 IMG_1375.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.49.33 IMG_1375.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.47.39 IMG_1374.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.47.39 IMG_1374.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.59.44 IMG_1345.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.59.44 IMG_1345.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.33.10 IMG_1306.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.33.10 IMG_1306.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.20.40 IMG_1392.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.20.40 IMG_1392.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 12.13.26 IMG_1337.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-232.13.26 IMG_1337.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.28 IMG_1383.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.28 IMG_1383.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.54.28 IMG_1320.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.54.28 IMG_1320.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.48.09 IMG_1333.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.48.09 IMG_1333.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.20.47 IMG_1393.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.20.47 IMG_1393.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 07.49.33 IMG_1375.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-247.49.33 IMG_1375.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-25 05.20.54 IMG_1394.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-255.20.54 IMG_1394.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-24 20.23.23 IMG_1382.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-240.23.23 IMG_1382.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 11.44.12 IMG_1328.JPG.~1~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-231.44.12 IMG_1328.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.00.08 IMG_1346.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.00.08 IMG_1346.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 09.46.27 IMG_1296.JPG.~4~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-239.46.27 IMG_1296.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 13.20.05 IMG_1350.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-233.20.05 IMG_1350.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 10.32.17 IMG_1305.JPG.~3~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-230.32.17 IMG_1305.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-23 14.43.06 IMG_1363.JPG.~2~" "/media/pi/JUKE/Pictures/201505-Vancouver/2015-05-234.43.06 IMG_1363.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.46.33 0824121646.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.46.33824121646.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30 0824121648.JPG.~6~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30824121648.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 17.46.22 0824121746.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 17.46.22824121746.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.37.59 0824121638.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.37.59824121638.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30 0824121649.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30824121649.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30 0824121648.JPG.~5~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 16.48.30824121648.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 17.46.22 0824121747.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-24 17.46.22824121747.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201208-West Point/2012-08-25 10.38.22 0825121041.JPG.~3~" "/media/pi/JUKE/Pictures/201208-West Point/2012-08-25 10.38.22825121041.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-29 17.43.03 IMG_0534.JPG.~3~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-297.43.03 IMG_0534.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-31 23.05.02 IMG_0543.JPG.~3~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-313.05.02 IMG_0543.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-29 20.27.51 IMG_0535.JPG.~1~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-290.27.51 IMG_0535.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-09-07 07.15.16 IMG_0546.JPG.~4~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-09-077.15.16 IMG_0546.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-29 17.43.03 IMG_0534.JPG.~4~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-297.43.03 IMG_0534.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-31 16.26.12 IMG_0541.JPG.~4~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-316.26.12 IMG_0541.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-31 23.05.02 IMG_0543.JPG.~4~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-313.05.02 IMG_0543.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-31 16.26.12 IMG_0541.JPG.~3~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-08-316.26.12 IMG_0541.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Of Tylers'/2014-09-07 07.15.16 IMG_0546.JPG.~3~" "/media/pi/JUKE/Pictures/Of Tylers'/2014-09-077.15.16 IMG_0546.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-09-21 15.42.21 IMG_3388.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-09-215.42.21 IMG_3388.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-27 19.27.35 IMG_3180.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-279.27.35 IMG_3180.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-27 19.27.01 IMG_3179.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-279.27.01 IMG_3179.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-27 19.01.35 F2312F8E-0A62-4DAB-B14F-090879405E06.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-279.01.35 F2312F8E-0A62-4DAB-B14F-090879405E06.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-26 10.55.58 IMG_3118.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-260.55.58 IMG_3118.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-27 19.11.46 4991D6CC-C371-4758-B118-8619D18DA75B.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-27 19.11.46991D6CC-C371-4758-B118-8619D18DA75B.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/interview/2018-07-26 07.40.17 IMG_3117.JPG.~1~" "/media/pi/JUKE/Pictures/interview/2018-07-267.40.17 IMG_3117.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201309-Brule River/2013-09-03 13.08.42 IMG_0097.JPG.~4~" "/media/pi/JUKE/Pictures/201309-Brule River/2013-09-033.08.42 IMG_0097.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201309-Brule River/2013-09-03 13.08.42 IMG_0097.JPG.~3~" "/media/pi/JUKE/Pictures/201309-Brule River/2013-09-033.08.42 IMG_0097.JPG"
+/media/pi/JUKE/Pictures/M4Vs/IMG_1209.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1256.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1232.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1200.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1122.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1262.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0267.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1130.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1135.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1203.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_5461.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1263.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1218.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0776.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0231.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0713.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1257.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0537.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1264.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1128.M4V.~2~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1112.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1231.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1269.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1255.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1327.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0173.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0532.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1199.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1235.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1607.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_5157.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1119.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0934.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0222.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1228.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1265.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0782.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1612.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0542.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_3560.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1664.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1236.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1359.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1208.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0781.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1248.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0535.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1362.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_3098.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1629.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1241.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0792.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1131.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0554.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0721.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1225.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1354.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0538.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1600.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0777.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0936.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1123.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1242.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1227.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1249.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1120.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1251.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1638.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1254.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1239.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1134.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_5158.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0223.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1201.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1126.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0778.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1133.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0539.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1651.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1217.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0531.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1132.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1247.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1647.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1708.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1129.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1266.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0528.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0597.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0226.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1202.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1234.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0534.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0780.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1267.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1050.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0533.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1136.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1127.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1204.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1124.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1229.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1252.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1323.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1238.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1243.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_3672.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1233.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1622.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1270.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0548.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0775.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1253.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1601.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1128.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0718.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0712.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0547.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1121.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1025.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0372.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1224.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1215.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1230.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0783.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0730.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0252.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1310.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1271.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0536.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1198.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1118.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1526.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1610.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1125.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_0774.M4V.~1~
+/media/pi/JUKE/Pictures/M4Vs/IMG_1226.M4V.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/201103-Beijing/2014-03-09 15.01.19 IMG_0196.JPG.~3~" "/media/pi/JUKE/Pictures/201103-Beijing/2014-03-095.01.19 IMG_0196.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201103-Beijing/2014-03-09 15.01.19 IMG_0196.JPG.~4~" "/media/pi/JUKE/Pictures/201103-Beijing/2014-03-095.01.19 IMG_0196.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.38.39 IMG_0814.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.38.39 IMG_0814.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 09.22.40 IMG_0818.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.22.40 IMG_0818.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.34.15 IMG_0807.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.34.15 IMG_0807.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.39.23 IMG_0817.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.39.23 IMG_0817.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.33.44 IMG_0803.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.33.44 IMG_0803.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.39.17 IMG_0816.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.39.17 IMG_0816.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.36.46 IMG_0808.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.36.46 IMG_0808.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.39.13 IMG_0815.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.39.13 IMG_0815.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.24.34 IMG_0791.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.24.34 IMG_0791.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.33.10 IMG_0801.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.33.10 IMG_0801.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.37.47 IMG_0813.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.37.47 IMG_0813.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 17.15.12 IMG_0829.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-237.15.12 IMG_0829.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.37.14 IMG_0812.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.37.14 IMG_0812.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 17.00.59 IMG_0827.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-237.00.59 IMG_0827.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 16.55.07 IMG_0823.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-236.55.07 IMG_0823.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.33.10 IMG_0802.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.33.10 IMG_0802.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.31.25 IMG_0796.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.31.25 IMG_0796.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.31.55 IMG_0798.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.31.55 IMG_0798.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.31.55 IMG_0799.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.31.55 IMG_0799.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.33.49 IMG_0804.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.33.49 IMG_0804.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 16.16.31 IMG_0824.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-236.16.31 IMG_0824.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.31.25 IMG_0797.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.31.25 IMG_0797.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.24.00 IMG_0789.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.24.00 IMG_0789.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.37.09 IMG_0811.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.37.09 IMG_0811.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.30.01 IMG_0793.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.30.01 IMG_0793.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.32.47 IMG_0800.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.32.47 IMG_0800.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.22.40 IMG_0788.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.22.40 IMG_0788.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.34.08 IMG_0805.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.34.08 IMG_0805.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.24.23 IMG_0790.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.24.23 IMG_0790.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 16.34.43 IMG_0831.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-236.34.43 IMG_0831.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.34.15 IMG_0806.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.34.15 IMG_0806.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-23 19.37.04 IMG_0809.JPG.~1~" "/media/pi/JUKE/Pictures/201709-Valpo-Michigan/2017-09-239.37.04 IMG_0809.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Ness/2017-08-26 14.33.31 IMG_0745.JPG.~1~" "/media/pi/JUKE/Pictures/Ness/2017-08-264.33.31 IMG_0745.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 20.43.48 IMG_1448.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.43.48 IMG_1448.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-02 19.12.35 IMG_1422.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-029.12.35 IMG_1422.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.45.26 IMG_1456.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.45.26 IMG_1456.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 11.49.58 IMG_1439.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-061.49.58 IMG_1439.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 10.07.42 IMG_1437.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.07.42 IMG_1437.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-07 06.55.10 IMG_1454.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-076.55.10 IMG_1454.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.45.26 IMG_1458.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.45.26 IMG_1458.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 11.49.56 IMG_1438.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-061.49.56 IMG_1438.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-15 14.14.52 IMG_0519.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-154.14.52 IMG_0519.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 19.14.45 IMG_1447.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-069.14.45 IMG_1447.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-15 14.14.42 IMG_0518.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-154.14.42 IMG_0518.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 11.57.21 IMG_1441.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-061.57.21 IMG_1441.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-07 05.01.22 IMG_1453.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-075.01.22 IMG_1453.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 10.06.34 IMG_1436.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.06.34 IMG_1436.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.45.26 IMG_1455.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.45.26 IMG_1455.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 12.29.25 IMG_1445.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-062.29.25 IMG_1445.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 20.47.36 IMG_1452.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.47.36 IMG_1452.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 10.08.40 IMG_1806.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.08.40 IMG_1806.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 11.57.12 IMG_1440.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-061.57.12 IMG_1440.JPG"
+/media/pi/JUKE/Pictures/Canoe Canada/IMG_1442.JPG.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.54.22 IMG_1525.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.54.22 IMG_1525.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 20.47.15 IMG_1449.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.47.15 IMG_1449.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-07 11.40.21 IMG_1527.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-071.40.21 IMG_1527.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-15 14.15.13 IMG_0520.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2014-07-154.15.13 IMG_0520.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 20.47.16 IMG_1450.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.47.16 IMG_1450.JPG"
+/media/pi/JUKE/Pictures/Canoe Canada/IMG_1444.JPG.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.45.26 IMG_1459.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.45.26 IMG_1459.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 10.06.14 IMG_1435.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.06.14 IMG_1435.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-15 16.45.26 IMG_1457.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-156.45.26 IMG_1457.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-06 20.47.33 IMG_1451.JPG.~1~" "/media/pi/JUKE/Pictures/Canoe Canada/2015-07-060.47.33 IMG_1451.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 10.08.05 IMG_0581.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-040.08.05 IMG_0581.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 12.32.48 IMG_0679.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-052.32.48 IMG_0679.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 17.10.43 IMG_0629.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-047.10.43 IMG_0629.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 10.02.46 IMG_0580.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-040.02.46 IMG_0580.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 11.54.42 IMG_0666.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-051.54.42 IMG_0666.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 15.04.36 IMG_0618.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-045.04.36 IMG_0618.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 10.00.54 IMG_0575.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-040.00.54 IMG_0575.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 14.46.57 IMG_0614.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-044.46.57 IMG_0614.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 10.01.02 IMG_0576.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-040.01.02 IMG_0576.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 11.40.18 IMG_0657.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-051.40.18 IMG_0657.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 11.44.41 IMG_0658.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-051.44.41 IMG_0658.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 11.39.35 IMG_0655.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-051.39.35 IMG_0655.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 14.48.02 IMG_0616.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-044.48.02 IMG_0616.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-05 11.40.13 IMG_0656.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-051.40.13 IMG_0656.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 14.48.50 IMG_0617.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-044.48.50 IMG_0617.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 14.47.04 IMG_0615.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-044.47.04 IMG_0615.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 13.52.21 IMG_0605.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-043.52.21 IMG_0605.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-04 09.59.13 IMG_0574.JPG.~1~" "/media/pi/JUKE/Pictures/201410-Hocking Hills State Parks/2014-10-049.59.13 IMG_0574.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 19.31.48 IMG_1408.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-209.31.48 IMG_1408.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2017-08-18 18.14.07 IMG_0704.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2017-08-188.14.07 IMG_0704.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-09-27 16.19.20 IMG_0561.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-09-276.19.20 IMG_0561.JPG"
+/media/pi/JUKE/Pictures/As Hoosier/Town/IMG_0113.JPG.~3~
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 10.44.58 IMG_1551.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-020.44.58 IMG_1551.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2013-05-04 13.56.12 IMG_0051.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2013-05-043.56.12 IMG_0051.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 10.45.48 IMG_1552.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-020.45.48 IMG_1552.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-13 16.45.59 IMG_0766.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-136.45.59 IMG_0766.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-01-09 19.59.06 IMG_1103.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-01-099.59.06 IMG_1103.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 10.46.06 IMG_1554.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-020.46.06 IMG_1554.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 10.48.31 IMG_1556.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-020.48.31 IMG_1556.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 12.00.18 IMG_1560.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-022.00.18 IMG_1560.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-13 16.05.34 IMG_0760.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-136.05.34 IMG_0760.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-13 16.02.12 IMG_0755.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2014-12-136.02.12 IMG_0755.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-02 10.58.37 IMG_1559.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Town/2015-08-020.58.37 IMG_1559.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-10-14 06.39.52 IMG_1678.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-10-146.39.52 IMG_1678.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 20.49.40 IMG_1409.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-200.49.40 IMG_1409.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 23.24.45 IMG_1417.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-203.24.45 IMG_1417.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-29 17.18.36 IMG_1420.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-297.18.36 IMG_1420.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2014-05-04 19.25.55 IMG_0224.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2014-05-049.25.55 IMG_0224.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 20.50.09 IMG_1412.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-200.50.09 IMG_1412.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2018-08-23 20.13.23 IMG_3356.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2018-08-230.13.23 IMG_3356.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2018-08-23 20.13.23 IMG_3356.JPG.~2~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2018-08-230.13.23 IMG_3356.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-20 14.42.25 IMG_0556.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-204.42.25 IMG_0556.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-20 14.42.18 IMG_0555.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-204.42.18 IMG_0555.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-20 14.42.18 IMG_0555.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Watch/2014-09-204.42.18 IMG_0555.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2014-06-14 23.17.16 IMG_0485.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/2014-06-143.17.16 IMG_0485.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-08-02 10.45.48 IMG_1552.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-08-020.45.48 IMG_1552.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2017-08-11 19.31.56 IMG_8957.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2017-08-119.31.56 IMG_8957.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2017-08-11 19.26.59 IMG_8946.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2017-08-119.26.59 IMG_8946.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 22.22.38 IMG_1595.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-102.22.38 IMG_1595.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 21.59.56 IMG_1586.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-101.59.56 IMG_1586.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 22.21.50 IMG_1591.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-102.21.50 IMG_1591.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 21.59.31 IMG_1585.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-101.59.31 IMG_1585.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 21.59.56 IMG_1586.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-101.59.56 IMG_1586.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 22.22.38 IMG_1595.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-102.22.38 IMG_1595.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 22.00.14 IMG_1587.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-102.00.14 IMG_1587.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-10 21.59.31 IMG_1585.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Volleyball-Play/2015-09-101.59.31 IMG_1585.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 20.50.12 IMG_1414.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-200.50.12 IMG_1414.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-11-26 16.37.10 IMG_1760.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-11-266.37.10 IMG_1760.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Equine/2015-04-18 15.03.27 IMG_1191.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Equine/2015-04-185.03.27 IMG_1191.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-10-19 15.07.38 IMG_0690.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-10-195.07.38 IMG_0690.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-12-03 17.23.19 IMG_0753.JPG.~3~" "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-12-037.23.19 IMG_0753.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Equine/2015-04-18 15.03.27 IMG_1191.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Equine/2015-04-185.03.27 IMG_1191.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-12-03 17.23.19 IMG_0753.JPG.~4~" "/media/pi/JUKE/Pictures/As Hoosier/Equine/2014-12-037.23.19 IMG_0753.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 22.09.02 IMG_1416.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-202.09.02 IMG_1416.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-03-14 16.47.07 IMG_1138.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-03-146.47.07 IMG_1138.JPG"
+/media/pi/JUKE/Pictures/As Hoosier/IMG_1405.JPG.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 21.26.11 IMG_1415.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-201.26.11 IMG_1415.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-20 20.49.46 IMG_1410.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-200.49.46 IMG_1410.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/As Hoosier/2015-06-12 19.24.44 IMG_1403.JPG.~1~" "/media/pi/JUKE/Pictures/As Hoosier/2015-06-129.24.44 IMG_1403.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.00 IMG_0312.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.00 IMG_0312.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.09 IMG_0313.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.09 IMG_0313.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.32 IMG_0315.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.32 IMG_0315.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.36 IMG_0317.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.36 IMG_0317.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.17 IMG_0314.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.17 IMG_0314.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-21 22.20.33 IMG_0316.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/MHbackpack/2017-03-212.20.33 IMG_0316.JPG"
+/media/pi/JUKE/Pictures/nonpersonal/social clipping/GYM/IMG_0004.JPG.~1~
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.16.55 IMG_0301.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.16.55 IMG_0301.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.18.22 IMG_0309.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.18.22 IMG_0309.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.17.44 IMG_0307.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.17.44 IMG_0307.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.17.54 IMG_0308.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.17.54 IMG_0308.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.17.35 IMG_0306.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.17.35 IMG_0306.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.18.35 IMG_0310.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.18.35 IMG_0310.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.17.16 IMG_0303.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.17.16 IMG_0303.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.16.38 IMG_0299.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.16.38 IMG_0299.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.19.01 IMG_0311.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.19.01 IMG_0311.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.17.25 IMG_0304.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.17.25 IMG_0304.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-21 22.16.42 IMG_0300.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/mb5,1/2017-03-212.16.42 IMG_0300.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-21 22.21.08 IMG_0320.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-212.21.08 IMG_0320.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-21 22.21.03 IMG_0319.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-212.21.03 IMG_0319.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-21 22.21.22 IMG_0321.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-212.21.22 IMG_0321.JPG"
+mv --backup=numbered "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-21 22.20.55 IMG_0318.JPG.~1~" "/media/pi/JUKE/Pictures/nonpersonal/Columbia/2017-03-212.20.55 IMG_0318.JPG"

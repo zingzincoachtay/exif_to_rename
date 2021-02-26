@@ -1,0 +1,5 @@
+
+find /media/pi/JUKE/Pictures/ -type f | grep -P "\.[a-z0-9]{3}"
+
+perl -ne 'print if !/jpg|mp4|dng|gif/'
+
